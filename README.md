@@ -1,6 +1,9 @@
 <h1 align="center"> Hey! I am Lucas. </h1>
 <div> 
-  <p> ➤  I'm just curious about programming, trying to learn and change things for the better. </p>   
+  <p> ➤ Looking for an opportunity in the area.  </p> 
+<p> ➤ I love new challenges. </p>
+<p> ➤ Python ❤️ </p>
+<p> ➤ Trying to improve myself more and more. </p>
 </div>
 <h1>  My Github Stats </h1>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lucas836-hub&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
